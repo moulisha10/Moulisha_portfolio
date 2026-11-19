@@ -54,8 +54,8 @@ const fieldClass =
   "w-full rounded-xl border border-input bg-background px-4 py-3 text-sm text-foreground outline-none transition-colors placeholder:text-muted-foreground focus:border-primary focus:ring-2 focus:ring-ring/40";
 
 const details = [
-  { icon: Mail, label: "hello@moulisharoy.dev" },
-  { icon: MapPin, label: "Bengaluru, India — remote friendly" },
+  { icon: Mail, label: "roymoulisha709@gmail.com" },
+  { icon: MapPin, label: "Kolkata, India" },
   { icon: Clock, label: "Replies within 2 business days" },
 ];
 

@@ -27,14 +27,9 @@ const timeline = [
     detail: "Organized by College of Engineering & Management, Kolaghat.",
   },
   {
-    date: "2021 — 2023",
-    role: "Full-Stack Developer, Tidepool Studio",
-    detail: "Shipped 15+ client apps across e-commerce, fintech and education.",
-  },
-  {
-    date: "2019 — 2021",
-    role: "Frontend Developer, Freelance",
-    detail: "Built marketing sites and design systems for early-stage startups.",
+    date: "July-December, 2025",
+    role: "NEC’25 Finalist by IIT Bombay",
+    detail: "6 month long competition to develop innovative solutions.",
   },
 ];
 

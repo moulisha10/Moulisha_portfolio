@@ -23,31 +23,31 @@ export const Route = createFileRoute("/projects")({
 
 const projects = [
   {
-    name: "Pulseboard",
+    name: "Z-vision",
     blurb:
-      "Realtime analytics dashboard with streaming charts, saved views and role-based access for teams.",
-    stack: ["React", "Node.js", "MongoDB", "WebSockets"],
-    href: "https://github.com",
+      "Explainable AI-based image detection system to classify real vs AI-generated images.",
+    stack: ["React", "Tailwind CSS", "Node.js", "Express", "Python", "FastAPI", "TensorFlow"],
+    href: "https://github.com/moulisha10/Zvision.git",
   },
   {
-    name: "Kindle Commerce",
+    name: "Emergi-sensei",
     blurb:
-      "Headless storefront with a custom cart engine, Stripe checkout and sub-second page loads.",
-    stack: ["React", "Express", "Stripe", "Tailwind"],
-    href: "https://github.com",
+      "Realtime multimodal emergency intelligence platform that detects critical incidents and alerts relevant authorities.",
+    stack: ["React", "Tailwind CSS", "Python", "FastAPI", "MobileNetV2"],
+    href: "https://github.com/moulisha10/Emergisensei.git",
   },
   {
-    name: "Loop",
-    blurb: "Habit tracker with offline-first sync, streak analytics and a calm, focused UI.",
-    stack: ["React", "IndexedDB", "Node.js"],
-    href: "https://github.com",
+    name: "Classification of Fire Types in India",
+    blurb: "Predict the type of fire using MODIS fire detection Satelite data for India.",
+    stack: ["Python", "Numpy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn"],
+    href: "https://github.com/moulisha10/Fire_classification.git",
   },
   {
-    name: "Docsy",
+    name: "Medical Assistant AI Agent",
     blurb:
-      "Markdown documentation platform with instant search, versioned pages and team comments.",
-    stack: ["TypeScript", "MongoDB", "Algolia"],
-    href: "https://github.com",
+      "AI-driven diagnostic agent to classify patient symptoms from text inputs, delivering accurate diagnoses.",
+    stack: ["Python", "LangChain", "LangGraph", "GenAI"],
+    href: "https://github.com/moulisha10/Medical_assistant_agent.git",
   },
 ];
 

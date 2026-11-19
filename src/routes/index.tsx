@@ -61,13 +61,13 @@ function Index() {
             </div>
 
             <div className="mt-8 flex items-center gap-4 text-muted-foreground">
-              <a href="https://github.com" aria-label="GitHub" className="hover:text-primary">
+              <a href="https://github.com/moulisha10" aria-label="GitHub" className="hover:text-primary">
                 <Github className="size-5" />
               </a>
-              <a href="https://linkedin.com" aria-label="LinkedIn" className="hover:text-primary">
+              <a href="https://www.linkedin.com/in/moulisha-roy/" aria-label="LinkedIn" className="hover:text-primary">
                 <Linkedin className="size-5" />
               </a>
-              <a href="mailto:hello@moulisharoy.dev" aria-label="Email" className="hover:text-primary">
+              <a href="mailto:roymoulisha709@gmail.com" aria-label="Email" className="hover:text-primary">
                 <Mail className="size-5" />
               </a>
             </div>

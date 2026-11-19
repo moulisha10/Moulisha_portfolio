@@ -23,15 +23,15 @@ export const Route = createFileRoute("/skills")({
 const groups = [
   {
     title: "Frontend",
-    items: ["React", "TypeScript", "Tailwind CSS", "TanStack Router", "Framer Motion", "Vite"],
+    items: ["React", "JavaScript", "Tailwind CSS", "Vite"],
   },
   {
     title: "Backend",
-    items: ["Node.js", "Express", "MongoDB", "PostgreSQL", "REST & tRPC", "Auth / JWT"],
+    items: ["Node.js", "Express", "MongoDB", "Auth / JWT"],
   },
   {
     title: "Tooling & craft",
-    items: ["Git & GitHub", "Docker", "Playwright", "Figma", "CI/CD", "Accessibility (WCAG)"],
+    items: ["Git & GitHub"],
   },
 ];
 
